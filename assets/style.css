@@ -5,7 +5,8 @@
 }
 
 body {
-    background: url('img/musical.jpg') no-repeat center center fixed;
+    background: url('img/musical.jpg')     center center fixed;
+    background_repeat; no-repeat;
     background-size: cover;
     font-family: 'Bai Jamjuree', sans-serif;
 }
